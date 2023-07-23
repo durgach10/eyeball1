@@ -1,0 +1,45 @@
+body{
+  background-color:bisque;
+}
+img{
+  position:relative;
+  left:400px;
+  height:700px;
+  width:500px;
+}
+.eye1
+{
+  border:3px solid black;
+  height: 139px;
+  width:95px;
+  position:relative;
+  top:-545px;
+  left:520px;
+  border-radius: 55%;
+  background-color: white;
+  overflow: hidden;
+}
+.eye2
+{
+  border:3px solid black;
+  height:125px;
+  width:85px;
+  position:relative;
+  border-radius: 50%;
+  top:-680px;
+  left:660px;
+  background-color: white;
+  overflow: hidden;
+}
+.eyeball
+{
+  border:2px solid black;
+  height:35px;
+  width:30px;
+  border-radius: 50%;
+  background-color: black;
+  position:relative;
+  top:28px;
+  left:40px;
+  /* overflow: hidden; */
+}
